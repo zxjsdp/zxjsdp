@@ -13,22 +13,7 @@
   </a>
 </div>
 
-
-
 <br />
-
-
-# Find Me
-
-<p align="center">
-    <a href="https://github.com/zxjsdp" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
-    <a href="mailto:zxjsdp@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-
-
-<br />
-
 
 # Languages and Tools
 
@@ -41,4 +26,16 @@
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+
+<br />
+
+# Find Me
+
+<p align="center">
+    <a href="https://github.com/zxjsdp" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
+    <a href="mailto:zxjsdp@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+
+
 
