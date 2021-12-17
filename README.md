@@ -5,10 +5,10 @@
 # My GitHub Stats
 
 <div>
-  <a href="https://github-readme-stats.vercel.app/api?username=zxjsdp&show_icons=true&theme=merko">
-    <img  align="left" src="https://github-readme-stats.vercel.app/api?username=zxjsdp&count_private=true&show_icons=true&theme=merko" />
+  <a href="https://github.com/zxjsdp/">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxjsdp&count_private=true&show_icons=true&theme=merko" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=zxjsdp&hide=php&theme=merko">
+  <a href="https://github.com/zxjsdp/">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxjsdp&hide=php&theme=merko" />
   </a>
 </div>
