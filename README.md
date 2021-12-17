@@ -1,4 +1,4 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=zxjsdp)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=zxjsdp)
 [![Github](https://img.shields.io/github/followers/zxjsdp?label=Follow&style=social)](https://github.com/zxjsdp)
 
 
@@ -8,7 +8,7 @@
   <a href="https://github.com/zxjsdp/">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxjsdp&count_private=true&show_icons=true&theme=merko" />
   </a>
-  <a href="https://github.com/zxjsdp/">
+  <a href="https://github.com/zxjsdp?tab=repositories">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxjsdp&hide=php&theme=merko" />
   </a>
 </div>
