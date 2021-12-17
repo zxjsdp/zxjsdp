@@ -18,7 +18,7 @@
 <br />
 
 
-# Find me on
+# Find Me
 
 <p align="center">
     <a href="https://github.com/zxjsdp" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="GitHub" height="40" style="vertical-align:top; margin:4px"> </a>
